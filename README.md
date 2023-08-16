@@ -24,9 +24,5 @@ but my creator knows best
 -
 ![](screenshots/4.jpg) ![](screenshots/5.jpg) ![](screenshots/6.jpg)
 
-## License & copyright
 
-Copyright (C) 16.06.2019 Anton Zalinyi, software engineer in the National University of "Kyiv-Mohyla Academy"
 
-Licensed under the [Mozilla Public License](LICENSE).
-[pyTelegramBotAPI license](https://github.com/eternnoir/pyTelegramBotAPI/blob/master/LICENSE)
